@@ -2,7 +2,5 @@
 
 int main(int argc, const char *argv[])
 {
-	printf("hello linux\n");
-	printf("hello world!\n");
 	return 0;
 }
